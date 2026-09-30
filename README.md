@@ -16,7 +16,7 @@ npm run dev
 ```
 <img width="1320" height="367" alt="image" src="https://github.com/user-attachments/assets/8cd164d1-6227-401a-ab37-1bb1e968c7e0" />
 
-## 4.点开链接,就可以跑啦😁👍<br>
+## 4.点开链接,就可以跑<br>
 初始账号密码是zhang 123456
 <img width="2782" height="1717" alt="image" src="https://github.com/user-attachments/assets/c663bcce-01a5-4074-8b1a-b723129b4d40" />
 <img width="2764" height="1700" alt="image" src="https://github.com/user-attachments/assets/28626c88-db97-4ccb-88b6-4f6b8612b453" />
